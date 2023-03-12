@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Victoria, based in Birmingham UK, and I'm learning to code with The School Of Code! 
 <!--
 **veepgoose/veepgoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
