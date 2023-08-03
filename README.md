@@ -1,4 +1,5 @@
-![ReadMeGif](veepgoose\images\ReadMeGif.gif)
+![ReadMeGif](images/ReadMeGif.gif)
+
 
 
 ### Hi there 👋
